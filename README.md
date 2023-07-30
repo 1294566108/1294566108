@@ -5,4 +5,4 @@
 
 ###  🌏 My interests
 - Distributed System
-- Distributed consistency algorithm
+- Distributed Consistency Algorithm
