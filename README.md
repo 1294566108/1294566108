@@ -2,7 +2,8 @@
 ###  🔭 About Me
 - Contributor of SOFASTACK/SOFAJRaft
 - Contributor of Apache/RocketMQ
+- Backend Development Intern of RED
 
 ###  🌏 My interests
-- Distributed System
+- Distributed Message System
 - Distributed Consistency Algorithm
