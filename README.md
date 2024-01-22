@@ -3,7 +3,7 @@
 - Contributor of SOFASTACK/SOFAJRaft
 - Contributor of Apache/RocketMQ
 - Backend Development Intern of RED
-- Message middleware R&D intern of XiaoMi
+- Message middleware R&D Intern of XiaoMi
 
 ###  🌏 My interests
 - Message Queue
