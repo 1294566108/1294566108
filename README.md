@@ -4,6 +4,7 @@
 - Contributor of Apache/RocketMQ
 - Backend Development Intern of RED
 - Message middleware R&D Intern of XiaoMi
+- Backend Development Intern of ByteDance
 
 ###  🌏 My interests
 - Message Queue
